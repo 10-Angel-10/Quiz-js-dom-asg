@@ -4,4 +4,5 @@ Angel Cuevas
 
 Made a website that changes the colors of boxes
 
-Peer Review:
+Peer Review: Andrew Sayasing
+Works and has verification. Like the switch statement, different from mine 
